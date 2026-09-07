@@ -56,6 +56,7 @@ Most commercial and venture repositories are private by design. This profile pre
 
 ## Connect
 
+- [steve@harleyshiftadvisory.com.au](mailto:steve@harleyshiftadvisory.com.au)
 - [HarleyShift Advisory](https://harleyshiftadvisory.com.au/)
 - [LinkedIn](https://www.linkedin.com/in/stharley/)
 - Perth, Western Australia
