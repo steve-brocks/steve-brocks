@@ -37,7 +37,7 @@ A distinctive editorial and brand-led digital experience, translating a strong c
 
 A design-led digital home for living-art creations. The experience brings together brand story, product care, QR-enabled customer guidance and a consent-controlled pathway for customers to share the continuing story of their piece.
 
-### ClaimsLab
+### [ClaimsLab](https://claims-lab.com.au/)
 
 A private proof-of-concept and product-development environment exploring how evidence, workflow and digital experience can improve claims-related work. The source remains private because the project contains commercial and operational material.
 
